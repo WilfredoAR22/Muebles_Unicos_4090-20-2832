@@ -16,5 +16,23 @@
         "nombre": "Lámpara",
         "descripcion": "Una lámpara moderna para iluminar tu hogar.",
         "imagen": "images/lampara.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Librera",
+        "descripcion": "Guarda tus libro en un lugar especial.",
+        "imagen": "images/librera.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Credenza",
+        "descripcion": "Adorna tus comedor con una credeza.",
+        "imagen": "images/credenza.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Tocador",
+        "descripcion": "Luce bonita con nuestros mejores cosmeticos.",
+        "imagen": "images/tocador.jpg"
     }
 ]
